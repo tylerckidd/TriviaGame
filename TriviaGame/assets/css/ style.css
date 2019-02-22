@@ -1,0 +1,14 @@
+body{
+	background-image: url(Users/tylerkidd/Homework/TriviaGame/assets/images/backimage.gif);
+	text-align: center;
+}
+
+.text-muted{
+	color: white;
+}
+.last-seconds{
+  color: red;
+}
+.option{
+  margin: 15px;
+}
