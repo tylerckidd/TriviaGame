@@ -1,4 +1,4 @@
-![img](assets/images/background-image.png)
+![img](assets/images/banner.png)
 
 # Project
 
